@@ -1,6 +1,6 @@
 # Pixel Live OBS Plugin
 
-Official OBS Studio plugin for **Pixel Live**.
+OBS Studio plugin that connects **Pixel Live** to OBS Studio.
 
 Connect Pixel Live to OBS Studio and receive your live video stream directly from your Android device.
 
