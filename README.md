@@ -7,8 +7,8 @@ Connect Pixel Live to OBS Studio and receive your live video stream directly fro
 ## ✨ Features
 
 - 📡 Pixel Live SRT streaming integration
-- 🔎 Automatic OBS discovery on the local network
-- 🎥 Pixel Live source for OBS Studio
+- 📱 Easy QR code pairing with the Pixel Live Android app
+- 🎥 Dedicated Pixel Live source for OBS Studio
 - ⚡ Fast and simple local network setup
 - 🖥️ Designed for OBS Studio on Windows
 
@@ -31,7 +31,7 @@ Connect Pixel Live to OBS Studio and receive your live video stream directly fro
 
 ## 📱 Pixel Live
 
-Pixel Live turns your Android phone into a professional wireless camera for OBS Studio and vMix.
+Pixel Live turns your Android phone into a professional wireless camera for OBS Studio.
 
 🌐 **Website:** https://www.pixellive.app/
 
