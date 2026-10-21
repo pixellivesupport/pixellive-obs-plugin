@@ -16,14 +16,14 @@ Connect Pixel Live to OBS Studio and receive your live video stream directly fro
 
 ### Latest Release
 
-**Pixel Live OBS Plugin v1.1 (5)**
+**Pixel Live OBS Plugin v..*
 
-[**Download Pixel Live OBS Plugin for Windows**](https://github.com/pixellivesupport/pixellive-obs-plugin/releases/download/v1.1-5/PixelLiveOBS.Setup.1.1.5.exe)
+[**Download Pixel Live OBS Plugin for Windows**](https://github.com/pixellivesupport/pixellive-obs-plugin/releases/latest)
 
 ## 🛠️ Installation
 
 1. Download the installer.
-2. Run `PixelLiveOBS.Setup.1.1.5.exe`.
+2. Run `PixelLiveOBS.Setup.*.*.*.exe`.
 3. Follow the installation instructions.
 4. Start or restart OBS Studio.
 5. Add **Pixel Live Source** to your OBS scene.
