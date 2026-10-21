@@ -22,12 +22,12 @@ Connect Pixel Live to OBS Studio and receive your live video stream directly fro
 
 ## 🛠️ Installation
 
-1. Download the installer.
-2. Run `PixelLiveOBS.Setup.*.*.*.exe`.
+1. Download PixelLiveOBS.Setup...*.exe
+2. Run the installer.
 3. Follow the installation instructions.
 4. Start or restart OBS Studio.
-5. Add **Pixel Live Source** to your OBS scene.
-6. Open Pixel Live on your Android device and start OBS Discovery.
+5. Add a **Pixel Live source** in OBS Studio. 
+6. Open the Pixel Live Android app and scan the QR code to connect.
 
 ## 📱 Pixel Live
 
